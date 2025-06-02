@@ -1,0 +1,8 @@
+# Godot-specific
+.import/
+.godot/
+.mono/
+.tmp/
+
+# macOS metadata
+.DS_Store
